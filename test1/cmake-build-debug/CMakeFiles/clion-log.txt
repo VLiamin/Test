@@ -1,4 +1,12 @@
-/opt/Clion/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/Clion/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/test/CLionProjects/test1 -B /home/test/CLionProjects/test1/cmake-build-debug
+/opt/Clion/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/Clion/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/test/Desktop/Test/test1 -B /home/test/Desktop/Test/test1/cmake-build-debug
+-- The C compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- The ASM_NASM compiler identification is NASM
+-- Found assembler: /usr/bin/nasm
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/test/CLionProjects/test1/cmake-build-debug
+-- Build files have been written to: /home/test/Desktop/Test/test1/cmake-build-debug

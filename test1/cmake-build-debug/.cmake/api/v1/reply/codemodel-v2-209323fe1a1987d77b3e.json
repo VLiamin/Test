@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/test/CLionProjects/test1/cmake-build-debug",
-		"source" : "/home/test/CLionProjects/test1"
+		"build" : "/home/test/Desktop/Test/test1/cmake-build-debug",
+		"source" : "/home/test/Desktop/Test/test1"
 	},
 	"version" : 
 	{
