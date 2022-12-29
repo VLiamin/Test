@@ -21,7 +21,7 @@ int main(void)
 
     time_t start, end;
 
-    file = fopen("/home/test/CLionProjects/test1/Ids", "r");
+    file = fopen("Ids", "r");
     int i = 0;
     while (fgets(arr[i], N, file) != NULL) {
         printf("%s", arr[i]);
